@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+    "id": "com.bonaxx264.m3ycolor",
+    "name": "M3Y OmColor",
+    "version": "1.0.0",
+    "description": "Deep Orange AMOLED Dark Theme for Xed-Editor",
+    "type": "theme",
+    "author": {
+        "displayName": "BONA"
+    },
+    "repository": "https://github.com/bonaxx264/M3Y_Color-Xed-Editor",
+    "license": "MIT",
+    "tags": ["dark", "amoled", "orange", "material-you"],
+    "minAppVersion": 87,
+    "inheritBase": true
+}
